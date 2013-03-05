@@ -1,0 +1,42 @@
+<html>
+<head>
+	<title>typeahead</title>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
+    <link rel="stylesheet" href="components/bootstrap/css/bootstrap.css">
+    <!-- <link rel="stylesheet" href="components/bootstrap/css/bootstrap-responsive.css"> -->
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+	
+
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span4"></div>
+			
+			<div class="span4">
+
+				<form class="form-inline">
+				  <fieldset>
+				    <legend>Search</legend>
+				    <input type="text" placeholder="from" class="from">
+				    <input type="text" placeholder="to" class="to">
+				    <button type="button" class="btn check btn-primary">search</button>
+				  </fieldset>
+				</form>
+
+				<div class="map_canvas"></div>
+
+			</div>
+			
+			<div class="span4"></div>
+		</div>
+	</div>
+
+
+
+
+
+	
+    <script data-main="scripts/main" src="components/requirejs/require.js"></script>
+</body>
+</html>
