@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="components/bootstrap/js"/>
+	<classpathentry kind="src" path="components/jquery"/>
+	<classpathentry excluding="tests/packages/optimizing/packages/engine/|tests/error/|tests/moduleConfig/|dist/|tests/relative/foo/bar/|tests/packages/baz/lib/|tests/circular/414/|tests/toUrl/|tests/definedSpecified/|tests/dataMain/dataMainIndex/|tests/browsertests/|tests/doh/|tests/relative/outsideBaseUrl/b/|tests/jsonp/|tests/trailingComma/|tests/circular/complexPlugin/|tests/universal/|tests/browsertests/async/|tests/shim/built/|tests/browsertests/vardefine/|tests/packages/dojox/window/|tests/commonjs/tests/modules/1.0/|tests/mapConfig/another/c/|tests/mapConfig/c1/|tests/commonjs/tests/modules/1.0/missing/|tests/browsertests/appendbeforeload/|tests/mapConfig/built/|tests/packages/funky/|tests/commonjs/tests/modules/1.0/absolute/|tests/paths/first.js/|tests/mapConfig/c/|tests/packages/optimizing/|tests/plugins/pluginLast/|tests/anon/sub/|tests/commonjs/tests/modules/1.0/nested/|tests/relative/|tests/commonjs/tests/modules/1.0/determinism/submodule/|tests/mapConfig/c2/|tests/i18n/nls/|tests/packages/dojox/|tests/exports/|tests/commonjs/tests/modules/1.0/method/|tests/plugins/pluginMap/dynamic/|tests/packages/foo/lib/|tests/plugins/pluginMapSameName/|tests/relative/greek/|tests/packages/pkgs/alpha/|tests/|tests/plugins/pluginShim/|tests/dataMain/baseUrl/src/|tests/mapConfig/another/|tests/version2/|tests/packages/pkgs/dojox/chair/|tests/uniques/|tests/version1/|tests/mapConfig/a1/sub/|tests/requirePluginLoad/|tests/nestedRequire/|tests/issue379/|tests/requireAsync/|tests/toUrl/sub/nested/|tests/packages/bar/0.4/scripts/|tests/isBrowser/|tests/commonjs/tests/modules/1.0/transitive/|tests/text/|tests/shim/|tests/packages/|tests/paths/relativeNormalize/|tests/packages/pkgs/dojox/table/|tests/plugins/|tests/plugins/delegated/|tests/i18n/nls/fr/|tests/packages/pkgs/beta/0.2/scripts/|tests/paths/impl/|tests/dataMain/|tests/plugins/onerror/|tests/packages/optimizing/packages/fuel/|tests/domReady/|tests/dataMain/baseUrl/|tests/mapConfig/|tests/cjsSpace/|tests/browsertests/docwritenested/|tests/commonjs/tests/modules/1.0/determinism/|tests/commonjs/tests/modules/1.0/monkeys/|tests/anon/|tests/nestedRequireConfig/|tests/packages/optimizing/packages/tires/|tests/browsertests/noload/|tests/hasOwnProperty/|tests/specialDeps/|tests/onResourceLoad/|tests/plugins/fromText/|tests/layers/|tests/commonjs/tests/modules/1.0/exactExports/|tests/commonjs/tests/modules/1.0/nested/a/b/c/|tests/moduleConfig/b/|tests/plugins/prime/|tests/commonjs/tests/modules/1.0/relative/submodule/|tests/undef/|tests/relative/foo/|tests/commonjs/tests/modules/1.0/relative/|tests/plugins/pluginMapSameName/plugin/|tests/plugins/fromTextNoDefine/|tests/mapConfig/plug/|tests/i18n/nls/en-us-surfer/|tests/delayedDefine/|tests/browsertests/scriptload/|tests/circular/|tests/commonjs/tests/modules/1.0/cyclic/|tests/packages/funky/lib/|tests/nestedDefine/|tests/pathArray/|tests/nestedRelativeRequire/|tests/jquery/scripts/|tests/paths/|tests/browsertests/scriptloadinteractiveattach/|tests/paths/relativeNormalize/bar/|tests/commonjs/tests/modules/1.0/absolute/submodule/|tests/browsertests/scriptloadinteractive/|tests/plugins/textDepend/|tests/toUrl/sub/|tests/plugins/pluginMap/|tests/commonjs/tests/modules/1.0/hasOwnProperty/|tests/remoteUrls/|tests/relative/outsideBaseUrl/|tests/nestedRelativeRequire/sub/|tests/urlfetch/|tests/browsertests/onerror/|tests/i18n/|tests/circular/transpiler/|tests/plugins/fromTextEvalError/|tests/mapConfig/adapter/" kind="src" path="components/requirejs"/>
+	<classpathentry kind="src" path="components/requirejs/dist"/>
+	<classpathentry excluding="packages/optimizing/packages/engine/|error/|moduleConfig/|relative/foo/bar/|packages/baz/lib/|circular/414/|toUrl/|definedSpecified/|dataMain/dataMainIndex/|browsertests/|doh/|relative/outsideBaseUrl/b/|jsonp/|trailingComma/|circular/complexPlugin/|universal/|browsertests/async/|shim/built/|browsertests/vardefine/|packages/dojox/window/|commonjs/tests/modules/1.0/|mapConfig/another/c/|mapConfig/c1/|commonjs/tests/modules/1.0/missing/|browsertests/appendbeforeload/|mapConfig/built/|packages/funky/|commonjs/tests/modules/1.0/absolute/|paths/first.js/|mapConfig/c/|packages/optimizing/|plugins/pluginLast/|anon/sub/|commonjs/tests/modules/1.0/nested/|relative/|commonjs/tests/modules/1.0/determinism/submodule/|mapConfig/c2/|i18n/nls/|packages/dojox/|exports/|commonjs/tests/modules/1.0/method/|plugins/pluginMap/dynamic/|packages/foo/lib/|plugins/pluginMapSameName/|relative/greek/|packages/pkgs/alpha/|plugins/pluginShim/|dataMain/baseUrl/src/|mapConfig/another/|version2/|packages/pkgs/dojox/chair/|uniques/|version1/|mapConfig/a1/sub/|requirePluginLoad/|nestedRequire/|issue379/|requireAsync/|toUrl/sub/nested/|packages/bar/0.4/scripts/|isBrowser/|commonjs/tests/modules/1.0/transitive/|text/|shim/|packages/|paths/relativeNormalize/|packages/pkgs/dojox/table/|plugins/|plugins/delegated/|i18n/nls/fr/|packages/pkgs/beta/0.2/scripts/|paths/impl/|dataMain/|plugins/onerror/|packages/optimizing/packages/fuel/|domReady/|dataMain/baseUrl/|mapConfig/|cjsSpace/|browsertests/docwritenested/|commonjs/tests/modules/1.0/determinism/|commonjs/tests/modules/1.0/monkeys/|anon/|nestedRequireConfig/|packages/optimizing/packages/tires/|browsertests/noload/|hasOwnProperty/|specialDeps/|onResourceLoad/|plugins/fromText/|layers/|commonjs/tests/modules/1.0/exactExports/|commonjs/tests/modules/1.0/nested/a/b/c/|moduleConfig/b/|plugins/prime/|commonjs/tests/modules/1.0/relative/submodule/|undef/|relative/foo/|commonjs/tests/modules/1.0/relative/|plugins/pluginMapSameName/plugin/|plugins/fromTextNoDefine/|mapConfig/plug/|i18n/nls/en-us-surfer/|delayedDefine/|browsertests/scriptload/|circular/|commonjs/tests/modules/1.0/cyclic/|packages/funky/lib/|nestedDefine/|pathArray/|nestedRelativeRequire/|jquery/scripts/|paths/|browsertests/scriptloadinteractiveattach/|paths/relativeNormalize/bar/|commonjs/tests/modules/1.0/absolute/submodule/|browsertests/scriptloadinteractive/|plugins/textDepend/|toUrl/sub/|plugins/pluginMap/|commonjs/tests/modules/1.0/hasOwnProperty/|remoteUrls/|relative/outsideBaseUrl/|nestedRelativeRequire/sub/|urlfetch/|browsertests/onerror/|i18n/|circular/transpiler/|plugins/fromTextEvalError/|mapConfig/adapter/" kind="src" path="components/requirejs/tests"/>
+	<classpathentry excluding="sub/" kind="src" path="components/requirejs/tests/anon"/>
+	<classpathentry kind="src" path="components/requirejs/tests/anon/sub"/>
+	<classpathentry excluding="async/|vardefine/|appendbeforeload/|docwritenested/|noload/|scriptload/|scriptloadinteractiveattach/|scriptloadinteractive/|onerror/" kind="src" path="components/requirejs/tests/browsertests"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/appendbeforeload"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/async"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/docwritenested"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/noload"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/onerror"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/scriptload"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/scriptloadinteractive"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/scriptloadinteractiveattach"/>
+	<classpathentry kind="src" path="components/requirejs/tests/browsertests/vardefine"/>
+	<classpathentry excluding="414/|complexPlugin/|transpiler/" kind="src" path="components/requirejs/tests/circular"/>
+	<classpathentry kind="src" path="components/requirejs/tests/circular/414"/>
+	<classpathentry kind="src" path="components/requirejs/tests/circular/complexPlugin"/>
+	<classpathentry kind="src" path="components/requirejs/tests/circular/transpiler"/>
+	<classpathentry kind="src" path="components/requirejs/tests/cjsSpace"/>
+	<classpathentry excluding="missing/|absolute/|nested/|determinism/submodule/|method/|transitive/|determinism/|monkeys/|exactExports/|nested/a/b/c/|relative/submodule/|relative/|cyclic/|absolute/submodule/|hasOwnProperty/" kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0"/>
+	<classpathentry excluding="submodule/" kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/absolute"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/absolute/submodule"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/cyclic"/>
+	<classpathentry excluding="submodule/" kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/determinism"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/determinism/submodule"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/exactExports"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/hasOwnProperty"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/method"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/missing"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/monkeys"/>
+	<classpathentry excluding="a/b/c/" kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/nested"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/nested/a/b/c"/>
+	<classpathentry excluding="submodule/" kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/relative"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/relative/submodule"/>
+	<classpathentry kind="src" path="components/requirejs/tests/commonjs/tests/modules/1.0/transitive"/>
+	<classpathentry excluding="dataMainIndex/|baseUrl/src/|baseUrl/" kind="src" path="components/requirejs/tests/dataMain"/>
+	<classpathentry excluding="src/" kind="src" path="components/requirejs/tests/dataMain/baseUrl"/>
+	<classpathentry kind="src" path="components/requirejs/tests/dataMain/baseUrl/src"/>
+	<classpathentry kind="src" path="components/requirejs/tests/dataMain/dataMainIndex"/>
+	<classpathentry kind="src" path="components/requirejs/tests/definedSpecified"/>
+	<classpathentry kind="src" path="components/requirejs/tests/delayedDefine"/>
+	<classpathentry kind="src" path="components/requirejs/tests/doh"/>
+	<classpathentry kind="src" path="components/requirejs/tests/domReady"/>
+	<classpathentry kind="src" path="components/requirejs/tests/error"/>
+	<classpathentry kind="src" path="components/requirejs/tests/exports"/>
+	<classpathentry kind="src" path="components/requirejs/tests/hasOwnProperty"/>
+	<classpathentry excluding="nls/|nls/fr/|nls/en-us-surfer/" kind="src" path="components/requirejs/tests/i18n"/>
+	<classpathentry excluding="fr/|en-us-surfer/" kind="src" path="components/requirejs/tests/i18n/nls"/>
+	<classpathentry kind="src" path="components/requirejs/tests/i18n/nls/en-us-surfer"/>
+	<classpathentry kind="src" path="components/requirejs/tests/i18n/nls/fr"/>
+	<classpathentry kind="src" path="components/requirejs/tests/isBrowser"/>
+	<classpathentry kind="src" path="components/requirejs/tests/issue379"/>
+	<classpathentry kind="src" path="components/requirejs/tests/jquery/scripts"/>
+	<classpathentry kind="src" path="components/requirejs/tests/jsonp"/>
+	<classpathentry kind="src" path="components/requirejs/tests/layers"/>
+	<classpathentry excluding="another/c/|c1/|built/|c/|c2/|another/|a1/sub/|plug/|adapter/" kind="src" path="components/requirejs/tests/mapConfig"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/a1/sub"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/adapter"/>
+	<classpathentry excluding="c/" kind="src" path="components/requirejs/tests/mapConfig/another"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/another/c"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/built"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/c"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/c1"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/c2"/>
+	<classpathentry kind="src" path="components/requirejs/tests/mapConfig/plug"/>
+	<classpathentry excluding="b/" kind="src" path="components/requirejs/tests/moduleConfig"/>
+	<classpathentry kind="src" path="components/requirejs/tests/moduleConfig/b"/>
+	<classpathentry kind="src" path="components/requirejs/tests/nestedDefine"/>
+	<classpathentry excluding="sub/" kind="src" path="components/requirejs/tests/nestedRelativeRequire"/>
+	<classpathentry kind="src" path="components/requirejs/tests/nestedRelativeRequire/sub"/>
+	<classpathentry kind="src" path="components/requirejs/tests/nestedRequire"/>
+	<classpathentry kind="src" path="components/requirejs/tests/nestedRequireConfig"/>
+	<classpathentry kind="src" path="components/requirejs/tests/onResourceLoad"/>
+	<classpathentry excluding="optimizing/packages/engine/|baz/lib/|dojox/window/|funky/|optimizing/|dojox/|foo/lib/|pkgs/alpha/|pkgs/dojox/chair/|bar/0.4/scripts/|pkgs/dojox/table/|pkgs/beta/0.2/scripts/|optimizing/packages/fuel/|optimizing/packages/tires/|funky/lib/" kind="src" path="components/requirejs/tests/packages"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/bar/0.4/scripts"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/baz/lib"/>
+	<classpathentry excluding="window/" kind="src" path="components/requirejs/tests/packages/dojox"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/dojox/window"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/foo/lib"/>
+	<classpathentry excluding="lib/" kind="src" path="components/requirejs/tests/packages/funky"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/funky/lib"/>
+	<classpathentry excluding="packages/engine/|packages/fuel/|packages/tires/" kind="src" path="components/requirejs/tests/packages/optimizing"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/optimizing/packages/engine"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/optimizing/packages/fuel"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/optimizing/packages/tires"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/pkgs/alpha"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/pkgs/beta/0.2/scripts"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/pkgs/dojox/chair"/>
+	<classpathentry kind="src" path="components/requirejs/tests/packages/pkgs/dojox/table"/>
+	<classpathentry kind="src" path="components/requirejs/tests/pathArray"/>
+	<classpathentry excluding="first.js/|relativeNormalize/|impl/|relativeNormalize/bar/" kind="src" path="components/requirejs/tests/paths"/>
+	<classpathentry kind="src" path="components/requirejs/tests/paths/first.js"/>
+	<classpathentry kind="src" path="components/requirejs/tests/paths/impl"/>
+	<classpathentry excluding="bar/" kind="src" path="components/requirejs/tests/paths/relativeNormalize"/>
+	<classpathentry kind="src" path="components/requirejs/tests/paths/relativeNormalize/bar"/>
+	<classpathentry excluding="pluginLast/|pluginMap/dynamic/|pluginMapSameName/|pluginShim/|delegated/|onerror/|fromText/|prime/|pluginMapSameName/plugin/|fromTextNoDefine/|textDepend/|pluginMap/|fromTextEvalError/" kind="src" path="components/requirejs/tests/plugins"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/delegated"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/fromText"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/fromTextEvalError"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/fromTextNoDefine"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/onerror"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/pluginLast"/>
+	<classpathentry excluding="dynamic/" kind="src" path="components/requirejs/tests/plugins/pluginMap"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/pluginMap/dynamic"/>
+	<classpathentry excluding="plugin/" kind="src" path="components/requirejs/tests/plugins/pluginMapSameName"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/pluginMapSameName/plugin"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/pluginShim"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/prime"/>
+	<classpathentry kind="src" path="components/requirejs/tests/plugins/textDepend"/>
+	<classpathentry excluding="foo/bar/|outsideBaseUrl/b/|greek/|foo/|outsideBaseUrl/" kind="src" path="components/requirejs/tests/relative"/>
+	<classpathentry excluding="bar/" kind="src" path="components/requirejs/tests/relative/foo"/>
+	<classpathentry kind="src" path="components/requirejs/tests/relative/foo/bar"/>
+	<classpathentry kind="src" path="components/requirejs/tests/relative/greek"/>
+	<classpathentry excluding="b/" kind="src" path="components/requirejs/tests/relative/outsideBaseUrl"/>
+	<classpathentry kind="src" path="components/requirejs/tests/relative/outsideBaseUrl/b"/>
+	<classpathentry kind="src" path="components/requirejs/tests/remoteUrls"/>
+	<classpathentry kind="src" path="components/requirejs/tests/requireAsync"/>
+	<classpathentry kind="src" path="components/requirejs/tests/requirePluginLoad"/>
+	<classpathentry excluding="built/" kind="src" path="components/requirejs/tests/shim"/>
+	<classpathentry kind="src" path="components/requirejs/tests/shim/built"/>
+	<classpathentry kind="src" path="components/requirejs/tests/specialDeps"/>
+	<classpathentry kind="src" path="components/requirejs/tests/text"/>
+	<classpathentry excluding="sub/nested/|sub/" kind="src" path="components/requirejs/tests/toUrl"/>
+	<classpathentry excluding="nested/" kind="src" path="components/requirejs/tests/toUrl/sub"/>
+	<classpathentry kind="src" path="components/requirejs/tests/toUrl/sub/nested"/>
+	<classpathentry kind="src" path="components/requirejs/tests/trailingComma"/>
+	<classpathentry kind="src" path="components/requirejs/tests/undef"/>
+	<classpathentry kind="src" path="components/requirejs/tests/uniques"/>
+	<classpathentry kind="src" path="components/requirejs/tests/universal"/>
+	<classpathentry kind="src" path="components/requirejs/tests/urlfetch"/>
+	<classpathentry kind="src" path="components/requirejs/tests/version1"/>
+	<classpathentry kind="src" path="components/requirejs/tests/version2"/>
+	<classpathentry excluding="vendor/" kind="src" path="scripts"/>
+	<classpathentry kind="src" path="scripts/vendor"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
